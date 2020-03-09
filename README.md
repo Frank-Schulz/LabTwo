@@ -2,6 +2,7 @@
 Frank Schulz
  - 09/03/2020 - 
  Installed Quokka extension -> evaluates the JS live
+ 
  | Shortcuts:   |     |
  | ------------------ |
  | On:  | CTRL + K, Q |
